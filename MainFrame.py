@@ -15,6 +15,6 @@ if __name__=='__main__':
     app=QApplication(sys.argv)# need QApplication for starting using any GUI
                               # sys.argv is for transfer parameters of booting into program
     window=CardMakerMain()
-    window.show()  # 显示窗口
+    window.show()  # Display window
     sys.exit(app.exec())  # 
 
