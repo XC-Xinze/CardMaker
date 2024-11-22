@@ -1,3 +1,5 @@
+# Copyright (c) 2024 [XC-Xinze]
+# Licensed under the Custom License. 
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow, QSplitter, QTreeView, QFileSystemModel, QTextBrowser
 from PySide6.QtCore import Qt
